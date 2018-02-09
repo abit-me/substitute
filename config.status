@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/python ./configure --xcode-sdk=iphoneos --enable-ios-bootstrap
